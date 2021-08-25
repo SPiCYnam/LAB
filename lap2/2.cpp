@@ -5,7 +5,7 @@ int main()
 	int count = 0;
 	for (j = 2; j<=10000;j++) 
 	{
-		int sum = 1; // ¹Ñº¤èÒ Ë.Ã.Á µÑé§áµè  1
+		int sum = 1; // Â¹Ã‘ÂºÂ¤Ã¨Ã’ Ã‹.Ãƒ.Ã ÂµÃ‘Ã©Â§Ã¡ÂµÃ¨  1
 		int x = 2;
 		int n = j;
 		while (x < n) {
